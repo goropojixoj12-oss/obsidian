@@ -1,10 +1,10 @@
 # 🚨 LIVE INTEL ALERTS
 
-**LAST UPDATE:** 2026-10-03 13:29:24 ICT
+**LAST SYNC:** 2026-10-03 13:53:25 ICT
 
-### Current Status:
-- **Target:** STATIONARY
-- **Location:** Villa 17, Sen Sok
-- **Router:** ONLINE
+### Current Pulse:
+- **Sar Vichea:** STATIONARY
+- **Zone:** Villa 17, Sen Sok (Borey Peng Huoth)
+- **Router:** ACTIVE (103.196.28.219)
 
-[[MOVEMENT_LOG|View Full History]]
+[[MOVEMENT_LOG|Full History]]
