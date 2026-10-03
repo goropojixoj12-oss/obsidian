@@ -1,0 +1,23 @@
+# INVESTIGATION TIMELINE: Target Movement
+
+- **Sep 27, 23:16 ICT:** Target active at [[TK_STAR_International]]. Low battery (4%). Connected to [[AIRLINK-B2C9_Router]].
+- **Oct 1, 13:00 ICT:** Target static at [[Villa_17_Sen_Sok]].
+- **Oct 1, 16:20 ICT:** Target moves via Russian Blvd.
+- **Oct 1, 16:42 ICT:** Target stops at [[Toul_Kork]] (TK Avenue).
+- **Oct 2, 08:30 ICT:** Target spotted at [[Riverside_Office_St178]]. White Range Rover [[Range_Rover_Sport_2BV-6771]] confirmed.
+- **Oct 2, 15:55 ICT:** Target returns to [[Villa_17_Sen_Sok]].
+- **Oct 2, 16:35 ICT:** Target split devices. Personal phone at Villa, work phone in [[BKK1]]. Router remains at Riverside.
+- **Oct 2, 21:20 ICT:** Target detected at [[BKK1]] (Street 302/63). 
+
+- **2026-10-03 11:39:14 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 11:49:17 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 11:59:18 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 12:09:18 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 12:19:19 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 12:29:20 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 12:39:20 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 12:49:21 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 12:59:22 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 13:09:23 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 13:19:23 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 13:29:24 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
