@@ -40,3 +40,5 @@
 - **2026-10-03 16:12:06 ICT:** Verified at base. Status: STATIONARY.
 - **2026-10-03 16:18:08 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
 - **2026-10-03 16:22:07 ICT:** Verified at base. Status: STATIONARY.
+- **2026-10-03 16:28:09 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
+- **2026-10-03 16:32:07 ICT:** Verified at base. Status: STATIONARY.
