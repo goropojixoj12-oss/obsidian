@@ -18,3 +18,5 @@ Detailed movement log of [[Sar_Vichea]] from Oct 1 to Oct 4, 2026.
 - **Oct 4, 19:15 ICT:** All devices (Phones + Router) synchronized at [[Villa_17_Sen_Sok]]. New IP [[IP_103.196.28.235]].
 
 [[FULL_PHYSICAL_MOVEMENT_LOG|View 30-Day Historical Map]]
+
+- **2026-10-04 13:21:11 ICT:** Verified at base. Status: STATIONARY.
