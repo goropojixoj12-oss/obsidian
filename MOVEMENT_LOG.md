@@ -88,3 +88,4 @@ Detailed movement log of [[Sar_Vichea]] from Oct 1 to Oct 4, 2026.
 - **2026-10-04 17:01:37 ICT:** Verified at base. Status: STATIONARY.
 - **2026-10-04 17:04:15 ICT:** Target is STATIONARY at [[Villa_17_Sen_Sok]]. Router IP: 103.196.28.219
 - **2026-10-04 17:09:00 ICT:** Verified at base. Status: STATIONARY.
+- **2026-10-04 17:11:39 ICT:** Verified at base. Status: STATIONARY.
