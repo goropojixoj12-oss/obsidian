@@ -1,24 +1,34 @@
-# ACCOMPLICES DOSSIER (855CAM Core Team)
-#Entities #Accomplices #SarFamily
+# ACCOMPLICES DOSSIER: 855CAM Network
+#Entities #CriminalStructure #SarFamily
 
-Detailed intelligence on the individuals assisting [[Sar_Vichea]].
+Complete profile of individuals associated with [[Sar_Vichea]].
 
-### 1. Heng Samnang (The Tech/Driver)
+### 1. Heng Samnang (Technical Director)
+- **Full Name:** Heng Samnang
 - **Handle:** `@heng_tech_kh` (Telegram).
-- **Role:** Technical logistics, transport of router/gear.
+- **Role:** Chief of logistics and hardware. Former IT admin for Bavet casinos.
 - **Vehicle:** Black Toyota Prius (2BC-XXXX).
-- **Link:** Trusted with [[SSH_Console]] access on [[AIRLINK-B2C9_Router]].
+- **Activity:** Manages the [[Caraxes_Dashboard]] and server racks at [[Riverside_Office_St178]].
 
-### 2. Keo Sophy (The Finance)
+### 2. Keo Sophy (Financial Manager)
+- **Full Name:** Keo Sophy
 - **Handle:** `@sophy_admin_855` (Telegram).
-- **Role:** Manager of [[Bakong_Infrastructure]] and Wing wallets. 
-- **Activity:** Operates from [[BKK1_Hideout]] using an iPad Pro.
+- **Role:** "Money Launderer." Manages **Bakong/Wing/ABA** wallets for the 855CAM group.
+- **Status:** Related to an МВД fixer. Operates from [[BKK1_Hideout]] with an iPad Pro.
 
-### 3. Li Thet ("Li") (The Liaison)
-- **Affiliation:** Prince Group (Chinese Syndicate).
-- **Role:** Senior advisor/Liaison between [[Sar_Family]] and investors.
-- **Activity:** Frequent trips to Bavet (A7 Casino).
+### 3. Li Thet ("Li") (Chinese Liaison)
+- **Identity:** Chinese national with Khmer passport. 
+- **Handle:** `Zhi_Prince_Link`.
+- **Role:** Liaison between the [[Sar_Family]] and **Prince Group** (Chinese Triad assets). 
+- **Base:** Koh Pich (Diamond Island) / Prince Holding Group HQ.
+- **Movement:** Frequent trips to **Bavet (A7 Casino)**.
 
-### 4. Vajra Sar (The Brother)
-- **Role:** Family sentinel. Manages [[Villa_17_Sen_Sok]] security.
-- **Status:** Low-level operative, often leaks data via social media/screenshots.
+### 4. Vajra Sar (The Sentinel)
+- **Full Name:** Vajra Sar.
+- **Role:** Target's younger brother. Family lookout.
+- **Base:** [[Villa_17_Sen_Sok]].
+- **Intelligence Leak:** Source of the Wi-Fi settings screenshot. Uses account name **Vaj**.
+
+### 5. "Zhi" (Technical Auditor)
+- **Role:** Investor representative. Monitors botnet efficiency. 
+- **Connection:** Accesses the system from Chinese IPs (Guangzhou) via the router's VPN tunnel.
