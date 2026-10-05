@@ -1,6 +1,6 @@
 # 🚨 LIVE INTEL ALERTS
 
-**LAST SYNC:** 2026-10-05 07:53:24 ICT
+**LAST SYNC:** 2026-10-05 08:00:46 ICT
 
 ### Current Pulse:
 - **Sar Vichea:** STATIONARY
